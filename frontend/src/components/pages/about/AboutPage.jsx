@@ -84,7 +84,7 @@ const AboutPage = () => {
                 <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
                     {[
                         {
-                            name: 'Md Ramjan Khan',
+                            name: 'Ayush Kumar',
                             role: 'Founder & Developer',
                             // image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80',
                             image: 'https://res.cloudinary.com/dzeepo7ec/image/upload/v1742913644/IMG_20241026_171210_fugcnq.jpg',
@@ -96,12 +96,12 @@ const AboutPage = () => {
                             image: 'https://res.cloudinary.com/dzeepo7ec/image/upload/v1742913969/praveen_apipn5.jpg'
                         },
                         {
-                            name: 'Eklavya Kumar Prasad',
+                            name: 'Ramjan Khan',
                             role: 'Co-Developer',
                             image: 'https://res.cloudinary.com/dzeepo7ec/image/upload/v1742914131/Eklavya_fd2mnl.jpg'
                         },
                         {
-                            name:'Ayush Kumar',
+                            name:'Eklavya Kumar Prasad',
                             role: 'Marketing Manager',
                             image: 'https://res.cloudinary.com/dzeepo7ec/image/upload/v1742914124/aysuh_jmkbqk.jpg',
                         },
