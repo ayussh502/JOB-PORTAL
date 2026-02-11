@@ -196,4 +196,3 @@ HireMe/
 
 
 ## Contact
-For questions or support, reach out to `rk9032929@gmail.com` or open an issue on GitHub.
